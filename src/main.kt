@@ -1,7 +1,9 @@
 fun main(){
-var x = times(arrayOf(3,5,6,8))
+var x = times(arrayOf(7,5,3,8))
     println(x)
-   var y= mixedType(arrayOf("jane",true,20.4,0.5F,'d'))
+   var y= mixedType(arrayOf("misky
+   
+   ",true,20.4,0.5F,'d'))
    println(y)
     var z = returnVowel(arrayOf('d','f','e','y','u','i'))
     println(z)
